@@ -1,4 +1,4 @@
-export VIRTUALHOSTS_PATH=/etc/httpd/conf.d/virtualhosts
+export VIRTUALHOSTS_PATH=/etc/apache2/sites-enabled/
 export BASH_SCRIPTS_PATH=~/.bash_scripts
 export EDITOR=nano
 
