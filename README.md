@@ -1,6 +1,6 @@
 # DebApMyPHP_5.2 (for Vagrant) #
 
-*aka "Debian Squeeze Apache MySQL PHP 5.2 in a box" / "I-hate-having-comp-issue-with-olde-PHP-product"*
+*aka "Debian Squeeze Apache MySQL PHP 5.2 in a box" / "I-hate-having-comp-issue-with-ye-olde-PHP-produkt"*
 * * *
 
 It's just a plain siple Vagrant pack including a Box, in his own branch for diskspace concerns, and a set of Puppet Manifests/Modules used to pre-configure your VM.
