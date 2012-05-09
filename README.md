@@ -29,4 +29,6 @@ Finally
 vagrant up
 ```
 
-*Original Manifests/Modules by __Gaspaio__ (vagrant-setups) THX buddy !*
+*Original Manifests/Modules by __[Gaspaio](https://github.com/gaspaio/vagrant-setups "The vagrant-setups project")__ (vagrant-setups) THX buddy !*
+
+*Sponsored by __[MK2](http://www.mk2.com)__ !*
