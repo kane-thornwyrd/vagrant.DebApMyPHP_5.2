@@ -30,5 +30,5 @@ vagrant up
 ```
 
 *Original Manifests/Modules by* 
-gaspaio/vagrant-setups@3abce780acb8c0ddabb2d4d13180fad631e78ced
+User/Project@SHA: gaspaio/vagrant-setups@3abce780acb8c0ddabb2d4d13180fad631e78ced
 *THX buddy !*
