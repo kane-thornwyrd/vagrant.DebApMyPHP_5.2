@@ -10,4 +10,5 @@ include mysql
 include php
 include php::pear
 include php::pecl
+include nice_bash
 

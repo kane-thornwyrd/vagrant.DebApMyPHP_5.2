@@ -1,0 +1,16 @@
+export VIRTUALHOSTS_PATH=/etc/httpd/conf.d/virtualhosts
+export BASH_SCRIPTS_PATH=~/.bash_scripts
+export EDITOR=nano
+
+alias sedi='sudo $EDITOR'
+alias back='cd -'
+bind '"\e[A"':history-search-backward
+bind '"\e[B"':history-search-forward
+alias ll='ls -l'
+alias lla='ls -la'
+alias df='df -h --total'
+alias ncal='ncal -w'
+alias calendrier='ncal'
+alias hosts='sudo $EDITOR /etc/hosts'
+alias virtualhosts='sudo cd $VIRTUALHOSTS_PATH'
+alias ..='cd ..'
